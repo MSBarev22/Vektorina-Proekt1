@@ -1,66 +1,48 @@
-<!DOCTYPE html>
-<html>
-    <head>
-<title> Vektorina Home page</title>
-
-<link rel="stylesheet" href="styles.css">
-
-<style>
-body{background-color: rgb(82, 134, 247);}
-#div1{
-   justify-content: ;
-   padding:20px;
-   background-color:gray
-}
-.navbar {
-    width: 100%vw;
-    height: 5vh;
-    background-color: grey;
- 
-    position: sticky;
-    top: 0;
-    left: 0;
- 
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center;
- 
-    padding-left: 5px;
-    padding-right: 5px;
- 
-    border: 3px solid rgb(82, 81, 81);
- 
-    border-radius: 5px;
- 
-    margin-top: 20px;
-    margin-bottom: 20px;
-}
- 
-.navbar > a {
-    text-decoration: none;
-    color: black;
-    font-size: 15px;
-}
-    </style>
-
-
-    </head>
-   
-    <body>
-        <div id="div1">Welcome to our page!</div>
-
-        <div id="div2" style="padding:20px;background-color:gray">
-    <nav class="navbar">
-    
-    <a href="#">Home</a>
-    <a href="./about.html">About</a>
-    <a href="./robot selector.html">Robot Selector</a>
-     
-</nav>
-
-</div>
-
-    </body>
-
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="css/site.css"> 
+    <title>VEKTORINA</title>
+  </head>
+  <body>
+    <nav class="navbar navbar-expand-lg navbar-light bg-light">
+        <a class="navbar-brand" href="#">
+          <img src="images/logo.jpg" alt="Logo" style="width:40px;">
+        </a>
+        <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false">
+          <span class="navbar-toggler-icon"></span>
+        </button>
+        <div class="collapse navbar-collapse" id="navbarNav">
+          <ul class="navbar-nav">
+            <li class="nav-item">
+              <a class="nav-link" href="index.html">Home</a>
+            </li>
+            <li class="nav-item">
+              <a class="nav-link" href="robots.html">Robot selector</a>
+            </li>
+          </ul>
+        </div>
+    </nav>
+    <div class="content">
+        <h1>Basic information about robots</h1>
+        <p>
+          Robots are automated machines that can assist humans in a variety of tasks. They can be autonomous or semi-autonomous and are employed in a range of industries such as manufacturing, healthcare, and service sectors. Robots can be programmed to perform complex tasks with speed and precision, often beyond human capabilities.
+          <br><br>
+          They can range in size from microbots, tiny robots used in medical procedures, to large industrial robots that can lift heavy loads. Robots also play a critical role in research and exploration, such as the Mars rovers used in space exploration. As technology advances, the capabilities of robots continue to expand, including fields like artificial intelligence and machine learning.
+        </p>    
+    </div>
+    <div class="content d-flex justify-content-between">
+      <div class="text-center">
+        <b>VEKTORINA</b>
+        <br>
+        <img src="images/logo.jpg" alt="Logo" style="width:200px;">
+    </div>
+    <div class="text-center" style="margin-right:20%;margin-top:3%;">
+        <h4><b>Made by:</b> ...</h4>
+    </div>
+    </div>
+  </body>
 </html>
