@@ -9,8 +9,8 @@ body {
 .navbar, .content {
     border: 1px solid black;
     margin: 10px;
+    background-color: #bbabf3;
 }
-
 .content {
     padding: 20px;
 }
@@ -30,7 +30,7 @@ body {
 }
   
 .grid-item {
-    background-color: #ddd;
+    background-color: #bbabf3;
     padding: 100px;
     border: 1px solid black;
     text-align: center;
@@ -38,7 +38,7 @@ body {
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
 
 body {
-    background-color: #f3eded;
+    background-color: #82a6f3;
   }
   
   #cover {
