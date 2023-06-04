@@ -1,0 +1,1 @@
+Vektorina is a futuristic team talking about its favourite robots and robots that have impressed them. We want to show people how robots can be used and how they could improve in the future.
