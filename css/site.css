@@ -9,7 +9,7 @@ body {
 .navbar, .content {
     border: 1px solid black;
     margin: 10px;
-    background-color: #bbabf3;
+    background-color: #bfb6e0;
     font-size: large;
     font-weight: bold;
 }
@@ -34,7 +34,7 @@ body {
 }
   
 .grid-item {
-    background-color: #bbabf3;
+    background-color: #bfb6e0;
     padding: 100px;
     border: 1px solid black;
     text-align: center;
@@ -64,13 +64,14 @@ body {
     width:100%;
     padding:100px 15%;
     background:#333;
-    color:#efefef;
+    color:#000000;
+    font-weight: bold;
     display: flex;
   }
   
   
   .footer {
-    background-color: #bbabf3;
+    background-color: #bfb6e0;
     padding: 10px;
     text-align: center;
     position: fixed;
@@ -89,7 +90,8 @@ body {
   .column-1 a{
     display:block;
     text-decoration:none;
-    color:#efefef;
+    color:#000000;
+    font-weight:bold;
     margin-bottom: 10px;
   }
   form input{
