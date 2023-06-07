@@ -19,6 +19,12 @@ body {
     font-weight: bold;
 }
 
+#txt{
+  display: flex;
+   text-align: left;
+   max-width:69%;
+}
+
 .content p {
     padding: 20px;
 }
@@ -74,7 +80,7 @@ body {
     background-color: #bfb6e0;
     padding: 10px;
     text-align: center;
-    position: fixed;
+    position: relative;
     left: 0;
     bottom: 0;
     width: 100%;
@@ -112,4 +118,19 @@ body {
     padding:10px 30 px;
     font-size:15;
     cursor: pointer;
+  }
+  .img1{
+    display: flex;
+    align-content: right;
+    width:25%;
+    height:25%;
+    position: relative;
+    top:-80px;
+    
+    margin-left: -150px;
+    margin-top: -75px;
+
+    height: 400px;
+    width: 677px;
+    left:1500px;
   }
