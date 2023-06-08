@@ -18,6 +18,9 @@
   <img src="https://img.icons8.com/color/344/ms-word.png" alt="MS Word logo" width=48px />
  <img src="https://img.icons8.com/color/344/ms-powerpoint.png" alt="MS PowerPoint logo" width=48px />
 <img src="images/Discord.png" alt="Discord logo" width=48px />
+    <img src="images/excel.png" alt="Excel logo" width=48px />
+    <img src="images/Git.png" alt="Git logo" width=48px />
+    <img src="images/Microsoft_Paint.png" alt="Paint logo" width=48px />
 </p>
 <hr>
 <h2 align = "center"> Our Team</h2>
