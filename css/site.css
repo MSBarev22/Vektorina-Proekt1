@@ -134,11 +134,25 @@ body {
     top:-80px;
     
     margin-left: -120px;
+    margin-top: -505px;
+
+    height: 400px;
+    width: 545px;
+    left:1438px;
+  }
+  .img2{
+    display: flex;
+    align-content: right;
+   
+    position: relative;
+    top:-80px;
+    
+    margin-left: -120px;
     margin-top: -75px;
 
     height: 400px;
-    width: 590px;
-    left:1378px;
+    width: 545px;
+    left:1438px;
   }
   .abouttext1{
     font-family: 'Rubik', sans-serif;
