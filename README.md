@@ -23,10 +23,10 @@
 </p>
 <hr>
 <h2 align = "center">🧒 Our Team</h2>
- <a href = "https://github.com/MPNedelchev22"> Milan Nedelchev </a> [Scrum trainer]<br>
- <a href = "https://github.com/SKDimitrov22"> Stiliqn Dimitrov </a> [Front-end Developer]<br>
- <a href = "https://github.com/KKAtanasova22"> Dimitar Kostadinov </a> [Front-end Developer]<br>
- <a href = "https://github.com/TSMadzharov21"> Kalina Atanasova </a> [Designer]<br>
+ <a href = >  </a> [Scrum trainer]<br>
+ <a href = >  </a> [Front-end Developer]<br>
+ <a href = >  </a> [Front-end Developer]<br>
+ <a href = > </a> [Designer]<br>
 
 <hr>
 <h3> <p align="center">Thanks for checking out our Readme, you can help us by giving a feedback on our project!💖</p><h3>
