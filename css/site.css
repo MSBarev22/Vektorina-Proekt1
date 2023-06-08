@@ -4,6 +4,7 @@ body {
   -moz-background-size: auto;
   -o-background-size: auto;
   background-size: auto;
+  background-color: #82a6f3;
 }
 .body-about {
   background: url('images/bg.jpg') no-repeat center center fixed;
@@ -59,9 +60,7 @@ body {
 }
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500&display=swap');
 
-body {
-    background-color: #82a6f3;
-  }
+
   
   #cover {
     width: 500px;
@@ -138,7 +137,7 @@ body {
     align-content: right;
    
     position: relative;
-    top:-80px;
+    top:-105px;
     
     margin-left: -120px;
     margin-top: -505px;
@@ -152,10 +151,10 @@ body {
     align-content: right;
    
     position: relative;
-    top:-80px;
+    top:20px;
     
     margin-left: -120px;
-    margin-top: -75px;
+    margin-top: -85px;
 
     height: 400px;
     width: 545px;
@@ -179,6 +178,7 @@ body {
     width: 850px;
     left:-678px;
     bottom:-28px;
+    border-radius:9%;
   }
   .abouttext2{
     font-family: 'Rubik', sans-serif;
@@ -198,6 +198,7 @@ body {
     width: 850px;
     left:-280px;
     bottom:425px;
+    border-radius:9%;
   }
   .abouttext3{
     font-family: 'Rubik', sans-serif;
@@ -217,6 +218,7 @@ body {
     left:125px;
     bottom:417px;
     top:-882px;
+    border-radius:9%;
   }
   .abouttext4{
     font-family: 'Rubik', sans-serif;
@@ -237,6 +239,7 @@ body {
     left:530px;
     bottom:417px;
     top:-1339px;
+    border-radius:9%;
   }
   .image_description{
     font-size: 25px;
