@@ -1,11 +1,18 @@
 body {
-    background: url('images/bg.jpg') no-repeat center center fixed;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
-    background-size: cover;
+  background: url('images/bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: auto;
+  -moz-background-size: auto;
+  -o-background-size: auto;
+  background-size: auto;
 }
-
+.body-about {
+  background: url('images/bg.jpg') no-repeat center center fixed;
+  -webkit-background-size: contain;
+  -moz-background-size: contain;
+  -o-background-size: contain;
+  background-size:contain;
+  background-color: #82a6f3;
+}
 .navbar, .content {
     border: 1px solid black;
     margin: 10px;
@@ -252,5 +259,5 @@ body {
   flex-basis: 30%;
 }
 .footer-about h3 {
-  margin-bottom: 10p
+  margin-bottom: 10px
 }
