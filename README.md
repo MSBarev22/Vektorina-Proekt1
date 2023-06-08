@@ -19,7 +19,7 @@
 <p align="left">
   <img src="https://img.icons8.com/color/344/ms-word.png" alt="MS Word logo" width=48px /></a>
  <img src="https://img.icons8.com/color/344/ms-powerpoint.png" alt="MS PowerPoint logo" width=48px /></a>
-<img src="images/Discord.jpg" alt="Discord logo" width=48px /></a>
+<img src="images/Discord.png" alt="Discord logo" width=48px /></a>
 </p>
 <hr>
 <h2 align = "center"> Our Team</h2>
